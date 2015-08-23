@@ -50,6 +50,9 @@
     <!-- Themes Settings -->
     <string name="themes_settings_title">Themes</string>
 
+    <!-- App Ops settings -->
+    <string name="app_ops_settings_title">Permissions</string>
+
     <!-- QS tiles reset -->
     <string name="reset_qs_tiles_title">Reset Quick Settings tile layout</string>
     <string name="reset_qs_tiles_summary">Use the default positions for all tiles</string>
@@ -57,5 +60,15 @@
     <string name="reset_qs_tiles_dialog_msg">All your Quick Settings tiles will be moved to their default positions.</string>
     <string name="reset_qs_tiles_dialog_yes">Reset now</string>
     <string name="reset_qs_tiles_dialog_no">Cancel</string>
+
+    <!-- Navigation bar style configuration -->
+    <string name="navigation_bar_style_title">Navigation bar style</string>
+    <string name="navigation_bar_style_summary_stock">Show Google\'s stock bar</string>
+    <string name="navigation_bar_style_summary_immersive">Automatically hide Google\'s stock bar</string>
+
+    <!-- Status bar style configuration -->
+    <string name="status_bar_style_title">Status bar style</string>
+    <string name="status_bar_style_summary_stock">Show Google\'s stock bar</string>
+    <string name="status_bar_style_summary_immersive">Automatically hide Google\'s stock bar</string>
 
 </resources>
