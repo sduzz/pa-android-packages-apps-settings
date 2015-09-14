@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- System Interface settings  -->
-    <string name="boost_settings">Demon Tweaks</string>
+    <string name="demon_settings">Demon Tweaks</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
