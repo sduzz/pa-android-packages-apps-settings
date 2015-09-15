@@ -2003,6 +2003,11 @@
                 <meta-data android:name="com.android.settings.TOP_LEVEL_HEADER_ID"
                 android:resource="@id/demon_settings" />
         </activity>
+        
+        <!-- SystemApp Remover -->
+        <activity android:name="com.android.settings.demon.fragments.SystemappRemover" />
+
+
         <!--  TWEAKS END -->
 
         <receiver android:name=".widget.SettingsAppWidgetProvider"

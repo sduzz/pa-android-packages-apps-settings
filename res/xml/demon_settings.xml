@@ -9,5 +9,11 @@
 	        android:title="@string/volume_rocker_title"
 		android:summary="@string/volume_rocker_summary" />
 
+   <!-- SlimSizer -->
+   <PreferenceScreen
+       android:key="system_app_remover"
+       android:title="@string/system_app_remover"
+       android:summary="@string/systemappremover_summary"
+       android:fragment="com.android.settings.demon.fragments.SystemappRemover" />
 
 </PreferenceScreen>
